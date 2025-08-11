@@ -13,7 +13,7 @@ Here you’ll find:
 ---
 
 ## 📥 How to Download the ZIP
-1. Click the green **Code** button at the top of this repository.
+1. [Download Link](https://github.com/YunaBraska/EchoStackVault/archive/refs/heads/main.zip) or Click the green **Code** button at the top of this repository.
 2. Select **Download ZIP**.
 3. Extract the ZIP on your computer.
 4. Copy the `.sbp` and `sbpcg` blueprint files into your Satisfactory save folder: `%LOCALAPPDATA%\FactoryGame\Saved\SaveGames\blueprints`
